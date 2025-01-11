@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Deep Thought</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://kit.fontawesome.com/20c7faab12.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="style.css">
+        <link rel="icon" type="image/x-icon" href="https://sdlms.deepthought.education/favicon.ico?v=3gb1e79q2p0">
+    </head>
+    <body>
+        <nav>
+            <div class="logo-nav">
+                <img src="dir/img/logo 1.png" alt="uiFry Logo" class="logo-nav-img"/>
+            </div>
+        
+      <div class="right-side-nav">
+        <i class="fa-solid fa-house" id="icon-nav-action"></i>
+        <i class="fa-solid fa-bell" id="icon-nav-action"></i>
+        <i class="fa-solid fa-screwdriver-wrench" id="icon-nav-action"></i>
+        <img src="dir/img/Ellipse 53.png" alt="Profile" />
+        <i class="fa-solid fa-ellipsis-vertical" id="icon-nav-action"></i>
+      </div>
+        </nav>
+        <div class="icon-fixed-help">
+            <img src="dir/img/question-mark (2) 1.png" alt="question"/>
+            <img src="dir/img/9b8abad7a9c8d241fd0ab9eb6a9f95b5.png" alt="meeting" />
+            <img src="dir/img/schedule (1) 1.png" alt="schedule" />
+        </div>
+   
+    <div class="title-main-page-dash">
+        <div class="title-dash-main-top">
+        <h1>Technical Project Management</h1>
+        <button>Submit Task</button>
+        </div>
+        <div class="info-dashmain-top">
+            <h2>Explore the world of management</h2>
+            <p>As a project manager, you play an important reole in leading a project through initiation, planning, execution, monitoring, controlling and completion. How? Do you want to manage each and every step of your life?</p>
+        </div>
+    </div>
+    <div class="main-cards-section">
+        
+        <div class="card-layout-box">
+            <div class="top-card-heading">
+                <h1>Technical Project Management</h1>
+                <i class="fa-solid fa-circle-info"></i>
+            </div>
+            <div class="main-sub-card-para">
+                <p><strong>Description:</strong> Story of Alignment Scope of Agility Specific Accountable Staggering Approach</p>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/igiTFm_rP4E?si=Kdk0QiFNuTgV4FKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+        <div class="card-layout-box">
+            <div class="top-card-heading">
+                <h1>Technical Project Management</h1>
+                <i class="fa-solid fa-circle-info"></i>
+            </div>
+            <div class="main-sub-card-para">
+                <p><strong>Description:</strong> Watch the video and threadbuild, and jot out key threads while watching the video</p>
+            </div>
+            <div class="thread-class-card">
+                <div class="thread-title-with-back">
+                    <i class="fa-solid fa-caret-up" id="thread-icon"></i>
+                    <h1>Thread A</h1>
+                </div>
+                <div class="sub-text-class-sub">
+                    <div class="text-box-thread">
+                        <h2>Sub thread 1</h2>
+                        <input type="text" placeholder="Enter The text"/>
+                    </div>
+                    <div class="text-box-thread">
+                        <h2>Sub Interpretation 1</h2>
+                        <input type="text" placeholder="Enter The text"/>
+                    </div>
+                </div>
+                <div class="icon-sub-section-card">
+                    <span class="icon-flex-sec">
+                        <i class="fa-solid fa-lightbulb"></i>
+                        <i class="fa-solid fa-message"></i>
+                        <i class="fa-solid fa-message"></i>
+                        <i class="fa-solid fa-spa"></i>
+                    </span>
+                    <div class="dropdown">
+                    <button>Select Categ <i class="fa-solid fa-chevron-down"></i>
+                    <div class="dropdown-li">
+                        <p>Value1</p>
+                        <p>Value1</p>
+                        <p>Value1</p>
+                    </div>
+                    </button>
+                    </div>
+                    <div class="dropdown">
+                    <button>Select Proces<i class="fa-solid fa-chevron-down"></i>
+                        <div class="dropdown-li">
+                            <p>Value1</p>
+                            <p>Value1</p>
+                            <p>Value1</p>
+                        </div>
+                        </button>
+                        </div>
+
+                </div>
+                <div class="bottom-sec-summary">
+                    <button><i class="fa-solid fa-plus"></i> Sub-thread</button>
+                    <div class="text-box-summary">
+                        <h2>Summary for Thread A</h2>
+                        <input type="text" placeholder="Enter The text"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="card-layout-box">
+            <div class="top-card-heading">
+                <h1>Structure your Pointers</h1>
+                <i class="fa-solid fa-circle-info"></i>
+            </div>
+            <div class="main-sub-card-para">
+                <p><strong>Description:</strong> Write a 300 - 400 word article from your thread . Publish your understanding and showcase your understanding to the entire world
+                <br/>
+                <br/>
+                </p>
+            </div>
+            <div class="Structure-pointer-card">
+                <div class="title-structure-pinter-card">
+                    <h1>Title</h1>
+                    <input type="text"  name="Structure" placeholder="Enter The Title"/>
+                </div>
+                <div class="content-structure-pinter-card">
+                    <h1>Content</h1>
+                    <div class="tool-bar-content-card">
+                        <span>
+                            <small>File</small>
+                            <small>Edit</small>
+                            <small>View</small>
+                            <small>Insert</small>
+                            <small>Format</small>
+                            <small>Tools</small>
+                            <small>Table</small>
+                            <small>Help</small>
+                        </span>
+                        <span>
+                            <img src="dir/img/arrow-curve-left-right.svg" alt="curve right"/>
+                            <img src="dir/img/arrow-curve-left-down.svg" alt="curve left"/>
+                            <i class="fa-solid fa-maximize"></i>
+                            <p>Paragraph</p>
+                            <i class="fa-solid fa-ellipsis"></i>
+                        </span>
+                    </div>
+                </div>
+                <input type="text" id="Structure" name="Structure" placeholder="Enter The Content"/>
+
+            </div>
+
+        </div>
+        <div class="card-layout-box">
+            <div class="top-card-heading">
+                <h1>4SA Method</h1>
+                <i class="fa-solid fa-circle-info"></i>
+            </div>
+            <div class="main-sub-card-para">
+                <br/>
+                <p><strong>Description:</strong>  To Explore more read more </p>
+                <br/>
+            </div>
+            <div class="introduction-thread">
+                <h1><i class="fa-solid fa-chevron-up"></i> Introduction </h1>
+                <span class="intro-thread-sec">
+                    <p>The 4SA Method , How to bring a idea into progress ?</p>
+                    <button>See More</button>
+                </span>
+            </div>
+            <br/>
+            <br/>
+            <div class="introduction-thread">
+                <h1><i class="fa-solid fa-chevron-up"></i> Thread A </h1>
+                <span class="intro-thread-sec">
+                    <p>How are you going to develop your stratergy ? Which method are you going to use to develop a stratergy ? What if the project is lengthy?</p>
+                    <button>See More</button>
+                </span>
+            </div>
+            <div class="introduction-thread">
+                <h1><i class="fa-solid fa-chevron-up"></i> Example 1 </h1>
+                <span class="intro-thread-sec">
+                    <p>You have a concept , How will you put into progress?</p>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="dashboard-left-side">
+        <div class="top-card-heading-dashboard">
+            <h1>Journey Board</h1>
+        </div>
+        <div class="body-dashboard-left">
+            <ul><li>
+               <strong>Explore the world of management </strong>
+            </li>
+        <li>Technical Project Management</li>
+        <li>Threadbuild</li>
+        <li>Structure your pointers</li>
+        <li>4SA Method</li>
+        </ul>
+        </div>
+    </div>
+    <div class="dashboard-right-side">
+        <div class="left-card-heading-dashboard">
+            <h1 class="vertical-text">
+                <img src="dir/img/x-01.png" alt="close" />
+                <br/>
+                <span>N</span>
+                <span>O</span>
+                <span>T</span>
+                <span>I</span>
+                <span>C</span>
+                <span>E</span>
+                <span>B</span>
+                <span>O</span>
+                <span>A</span>
+                <span>R</span>
+                <span>D</span>
+            </h1>        </div>
+    </div>
+    </body>
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const leftSidebar = document.querySelector('.dashboard-left-side');
+            const rightSidebar = document.querySelector('.dashboard-right-side');
+    
+            function toggleLeftSidebar() {
+                if (leftSidebar.style.left === '0%') {
+                    leftSidebar.style.left = '-25%';
+                } else {
+                    leftSidebar.style.left = '0%';
+                }
+            }
+    
+            function toggleRightSidebar() {
+                if (rightSidebar.style.right === '0%') {
+                    rightSidebar.style.right = '-30%';
+                } else {
+                    rightSidebar.style.right = '0%';
+                }
+            }
+    
+            leftSidebar.addEventListener('click', function(event) {
+                event.stopPropagation(); // Prevent event from bubbling up to the document
+                toggleLeftSidebar();
+            });
+    
+            rightSidebar.addEventListener('click', function(event) {
+                event.stopPropagation(); // Prevent event from bubbling up to the document
+                toggleRightSidebar();
+            });
+    
+            document.addEventListener('click', function(event) {
+                if (leftSidebar.style.left === '0%' && !leftSidebar.contains(event.target)) {
+                    leftSidebar.style.left = '-25%';
+                }
+                if (rightSidebar.style.right === '0%' && !rightSidebar.contains(event.target)) {
+                    rightSidebar.style.right = '-30%';
+                }
+            });
+        });
+
+        
+    </script>
+    
+    
+        
+        
+</html>
